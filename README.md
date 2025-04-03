@@ -1,1 +1,1 @@
-A simple Number Guessing Game to practice bash scripting.
+A simple Number Guessing Game to practice bash scripting using SQL.
